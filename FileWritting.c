@@ -5,7 +5,7 @@
 
 int main()
 {
-
+    // Pointers and File Writings and File Readings
     char line[255];
     FILE * fpointer = fopen("employes.txt", "r");
 
